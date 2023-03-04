@@ -1,0 +1,5 @@
+include src/block-kriging/*
+include src/point-kriging/csv/*
+include src/point-kriging/csv/meuse/*
+include src/point-kriging/numpy/*
+include src/point-kriging/txt/*
